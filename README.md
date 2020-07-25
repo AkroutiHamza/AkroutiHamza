@@ -107,7 +107,7 @@ if (_.isAwesome(thisRepo)) {
 ----
 
 ### Github Activity 😂😂
-[![github.com/AkroutiHamza](https://raw.githubusercontent.com/AkroutiHamza/AkroutiHamza/master/assets/sans-titre.png)](https://github.com/AkroutiHamza)
+[![github.com/AkroutiHamza](https://raw.githubusercontent.com/AkroutiHamza/AkroutiHamza/master/assets/graph.png)](https://github.com/AkroutiHamza)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/akrouti_hamza?style=social)](https://twitter.com/akrouti_hamza) [![GitHub followers](https://img.shields.io/github/followers/Akroutihamza.svg?label=Follow%20@AkroutiHamza&style=social)](https://github.com/AkroutiHamza/)
 
