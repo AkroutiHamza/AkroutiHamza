@@ -67,7 +67,7 @@ I love to interact with people and share whatever little I know about my technol
 
 - [Consensus Algorithms In Blockchain Systems ](https://medium.com/@hamzaakrouti/consensus-algorithms-in-blockchain-systems-72141d5ea512)
 
-- [COMPARISON Bitcoin vs Ethereum vs Hyperledger](https://medium.com/@hamzaakrouti/)
+- [Bitcoin vs Ethereum vs Hyperledger](https://medium.com/@hamzaakrouti/) 🔜 Published Soon 🔜
 
 ## 🗣 Past Presentations
 
