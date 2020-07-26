@@ -65,7 +65,7 @@ Currently, I'm maintaining two projects which is part of many open-source progra
 
 I love to interact with people and share whatever little I know about my technology. It's a great feeling for me to onboard someone to the Open Source. Read the following **[Medium](https://medium.com/@hamzaakrouti)** stories to learn more:
 
-- [Consensus Algorithms In Blockchain ](https://medium.com/consensus-alogrithms-in-blockchain)
+- [Consensus Algorithms In Blockchain Systems ](https://medium.com/@hamzaakrouti/consensus-algorithms-in-blockchain-systems-72141d5ea512)
 
 - [COMPARISON Bitcoin vs Ethereum vs Hyperledger](https://medium.com/@hamzaakrouti/)
 
