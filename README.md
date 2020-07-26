@@ -30,7 +30,7 @@ I am **addicted to green dots** on [GitHub](https://github.com/AkroutiHamza?tab=
 
 - **Frontend**: `React`, `Redux`, `SASS`, `Webpack`
 
-- **Backend**: `Node.js`, `Express`, 
+- **Backend**: `Node.js`, `Express`,`J2EE` 
 
 - **Databases**: `MySQL`, `MongoDB`
 
