@@ -22,7 +22,7 @@ Currently)**. I work with all kinds of modern JavaScript. **You can find me on [
 My charitable motivation, coupled with a passion for what I am doing, inspires me for Open Source. 
 I am **addicted to green dots** on [GitHub](https://github.com/AkroutiHamza?tab=repositories).
 
-[![Hamza Akrouti github stats](https://github-readme-stats.vercel.app/api?username=AkroutiHamza&show_icons=true)](https://github.com/AkroutiHamza/)
+[![Hamza Akrouti github stats](https://github-readme-stats.vercel.app/api?username=AkroutiHamza&show_icons=true)](https://profile-summary-for-github.com/user/AkroutiHamza)
 
 ### :gear: My skills include:
 
