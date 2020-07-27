@@ -22,7 +22,15 @@ Currently)**. I work with all kinds of modern JavaScript. **You can find me on [
 My charitable motivation, coupled with a passion for what I am doing, inspires me for Open Source. 
 I am **addicted to green dots** on [GitHub](https://github.com/AkroutiHamza?tab=repositories).
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AkroutiHamza" />
+</a>
+
 [![Hamza Akrouti github stats](https://github-readme-stats.vercel.app/api?username=AkroutiHamza&show_icons=true)](https://profile-summary-for-github.com/user/AkroutiHamza)
+
+
 
 ### :gear: My skills include:
 
@@ -37,9 +45,6 @@ I am **addicted to green dots** on [GitHub](https://github.com/AkroutiHamza?tab=
 - **Testing frameworks**: `Mocha`, `Chai`, 
 
 - **Technical Practices**: *Agile*, *Test Driven Development*, *REST API Design*, *DevOps*,
-
-
-
 
 Currently, I'm maintaining two projects which is part of many open-source programs such as [Openzeppelin](https://openzeppelin.com/), [Decentralized Magazine](https://en.decentral.news/), [Lightency.io](http://lightency.io/), etc. Check out my other projects [here] ⬇️ .
 
