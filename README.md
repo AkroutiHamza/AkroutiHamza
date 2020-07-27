@@ -83,7 +83,7 @@ I love to interact with people and share whatever little I know about my technol
 
 [![COVID-19 Tracker](https://github-readme-stats.vercel.app/api/pin/?username=AkroutiHamza&repo=COVID19)](https://github.com/AkroutiHamza/COVID19)
 
-**Say Hi on Twitter([@Akrouti_Hamza](https://twitter.com/akrouti_hamza))!** :heart: 💬
+**Say Hi on Twitter([@Akrouti_Hamza](https://twitter.com/akrouti_hamza))!** :heart: 💬 
 
 ### My life 🙃🙃
 ![Fucking Life](https://raw.githubusercontent.com/AkroutiHamza/AkroutiHamza/master/assets/Mylife.gif) 
