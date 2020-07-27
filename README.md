@@ -55,16 +55,7 @@ Currently, I'm maintaining two projects which is part of many open-source progra
  <a href="https://github.com/AkroutiHamza/progressbar">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AkroutiHamza&repo=progressbar" />
 </a>
-
-
-
-<br><br>
-
-<br><br>
-
-
-
-
+<br>
 
 ### :handshake: Always happy to help!
 
