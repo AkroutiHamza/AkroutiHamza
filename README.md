@@ -24,8 +24,7 @@ I am **addicted to green dots** on [GitHub](https://github.com/AkroutiHamza?tab=
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AkroutiHamza" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkroutiHamza" />
 </a>
 
 [![Hamza Akrouti github stats](https://github-readme-stats.vercel.app/api?username=AkroutiHamza&show_icons=true)](https://profile-summary-for-github.com/user/AkroutiHamza)
