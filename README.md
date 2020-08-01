@@ -68,7 +68,7 @@ I love to interact with people and share whatever little I know about my technol
 
 | Event | Location | Date | Topic |       |
 |------|:-------:|:-----:|:------:|--------|
-| [ JS Communtiy Event] | FSM,Monastir 🇹🇳 🌊 | April 16, 2019 | Beginner Workshop on Node.js | 📹 &nbsp;Slides |
+|  JS Communtiy Event | FSM,Monastir 🇹🇳 🌊 | April 16, 2019 | Beginner Workshop on Node.js | 📹 &nbsp;Slides |
 | Dar Blockchain Meetup 1.0 | Ariana , Tunisia 🇹🇳 💱 | October , 2019 | Beginner Workshop on Blockchain 2.0 | 🖥&nbsp;Slides |
 |  Robot LAB ISIMA| ISIMA,Mahdia 🇹🇳 🌊 | April 29, 2020 | Community Building | 📹&nbsp;Video |
 							
