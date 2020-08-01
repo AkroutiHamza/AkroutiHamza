@@ -68,9 +68,9 @@ I love to interact with people and share whatever little I know about my technol
 
 | Event | Location | Date | Topic |       |
 |------|:-------:|:-----:|:------:|--------|
-| [Microsoft Student Communtiy Event] | ISIMA,Mahdia 🇹🇳 🌊 | April 16, 2019 | Beginner Workshop on Node.js | 📹 &nbsp;Slides |
+| [Student Communtiy Event] | ISIMA,Mahdia 🇹🇳 🌊 | April 16, 2019 | Beginner Workshop on Node.js | 📹 &nbsp;Slides |
 | Dar Blockchain Meetup 1.0 | Ariana , Tunisia 🇹🇳 💱 | October , 2019 | Beginner Workshop on Blockchain 2.0 | 🖥&nbsp;Slides |
-| Microsoft Student ISIMA EVENT| ISIMA,Mahdia 🇹🇳 🌊 | April 29, 2020 | Community Building | 📹&nbsp;Video |
+|  Robot LAB ISIMA| ISIMA,Mahdia 🇹🇳 🌊 | April 29, 2020 | Community Building | 📹&nbsp;Video |
 							
 ### Consider leaving a :star: for **[COVID-19](https://github.com/AkroutiHamza/COVID19/) :mask: [Tracker](https://github.com/AkroutiHamza/COVID19/) : 🇹🇳  Tunisia:  🇹🇳 ** built by me! :hugs: 
 
