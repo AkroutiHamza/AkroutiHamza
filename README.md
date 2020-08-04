@@ -14,9 +14,7 @@ Currently)**. I work with all kinds of modern JavaScript. **You can find me on [
  [![My cv](https://img.shields.io/badge/View%20-My%20Cv-green)](https://github.com/AkroutiHamza/AkroutiHamza/blob/master/curriculum%20vitae.pdf)
 
  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@hamzaakrouti&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/akrouti-hamza-507559176/)
- 
- [![Gihtub Visitors ](https://visitor-badge.glitch.me/badge?page_id=AkroutiHamza.visitor-badge)](https://github.com/AkroutiHamza)
- 
+  
 ### :arrow_down: Here are some ideas to get you started::
 - 🔭 I’m currently working on taking rest
 - 🌱 I’m currently learning how to be patient and persevere
