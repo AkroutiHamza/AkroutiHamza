@@ -7,13 +7,13 @@
 ### Bio 🧑🏻:
 
 I'm **[Hamza_Akrouti](https://www.linkedin.com/in/akrouti-hamza-507559176), a human being who is passionate about simplifying things through technology.
-Currently)**. I work with all kinds of modern JavaScript. **You can find me on [LinkedIn](https://www.linkedin.com/in/akrouti-hamza-507559176/)**. 
+Currently)**. I work with all kinds of modern JavaScript. **You can find me on [LinkedIn](https://www.linkedin.com/in/hamza-akrouti/)**. 
  
 
  **if you want to know more about me smach the Button below**  👉 
  [![My cv](https://img.shields.io/badge/View%20-My%20Cv-green)](https://github.com/AkroutiHamza/AkroutiHamza/blob/master/curriculum%20vitae.pdf)
 
- [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@hamzaakrouti&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/akrouti-hamza-507559176/)
+ [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@hamzaakrouti&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/hamza-akrouti/)
   
 ### :arrow_down: Here are some ideas to get you started::
 - 🔭 I’m currently working on taking rest
