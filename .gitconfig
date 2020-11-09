@@ -1,0 +1,49 @@
+[user]
+    name = AkroutiHamza
+    email = akrouti.hamza@yahoo.com
+[alias]
+    cl = clone
+    co = checkout
+    ci = commit
+    st = status
+    # ps = push HEAD
+    # pl = pull HEAD
+    pr = !git pull --rebase origin $(git symbolic-ref HEAD | sed -e 's,.*/\\(.*\\),\\1,')
+    # xx = !sh -c 'ls'   #sample of calling SH from git
+    # yy = !sh -c '$(git symbolic-ref HEAD | sed -e 's,.*/\\(.*\\),\\1,\\')'
+    pl = !git pull origin $(git symbolic-ref HEAD | sed -e 's,.*/\\(.*\\),\\1,')
+    ps = !git push origin $(git symbolic-ref HEAD | sed -e 's,.*/\\(.*\\),\\1,')
+    puig = push
+ #--no-commit
+ #--no-commit
+#$(git symbolic-ref HEAD | sed -e 's,.*/\(.*\),\1,')
+
+[apply]
+    whitespace = nowarn
+[core]
+    excludesfile = ~/.gitignore
+    editor = vim
+[color]
+    status = auto
+    branch = auto
+    interactive = auto
+    diff = auto
+    ui = true
+    pager = true
+
+[format]
+   pretty=format:%C(yellow)%h%Creset -%C(red)%d%Creset %s %Cgreen(%ar) %C(bold blue)<%an>%Creset
+# [color]
+  #  status = always
+  #  interactive = always
+  #  diff = auto
+
+[merge]
+    tool = SemanticMerge
+
+[mergetool "SemanticMerge"]
+    keepBackup = false
+    trustExitCode = false
+    cmd = \"semanticmerge\" -b=\"$BASE\" -d=\"$LOCAL\" -s=\"$REMOTE\" -r=\"$MERGED\" -l=csharp -emt=\"mergetool.exe -b=\"\"@basefile\"\" -bn=\"\"@basesymbolic\"\" -s=\"\"@sourcefile\"\" -sn=\"\"@sourcesymbolic\"\" -d=\"\"@destinationfile\"\" -dn=\"\"@destinationsymbolic\"\" -r=\"\"@output\"\" -t=\"\"@filetype\"\" -i=\"\"@comparationmethod\"\" -e=\"\"@fileencoding\"\"\" -edt=\"mergetool.exe  -s=\"\"@sourcefile\"\" -sn=\"\"@sourcesymbolic\"\" -d=\"\"@destinationfile\"\" -dn=\"\"@destinationsymbolic\"\" -t=\"\"@filetype\"\" -i=\"\"@comparationmethod\"\" -e=\"\"@fileencoding\"\"\"
+[push]
+    default = current
