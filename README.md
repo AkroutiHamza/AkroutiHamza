@@ -11,7 +11,7 @@ Currently)**. I work with all kinds of modern JavaScript. **You can find me on [
  
 
  **if you want to know more about me smach the Button below**  👉 
- [![My cv](https://img.shields.io/badge/View%20-My%20Cv-green)](https://github.com/AkroutiHamza/AkroutiHamza/blob/master/curriculum%20vitae.pdf)
+ [![My cv](https://img.shields.io/badge/View%20-My%20Cv-green)](https://drive.google.com/file/d/1arWdQigTDGzedeBpC2i63_JzI6U7DhGA/view)
 
  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@hamzaakrouti&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/hamza-akrouti/)
   
