@@ -39,15 +39,17 @@ I am **addicted to green dots** on [GitHub](https://github.com/AkroutiHamza?tab=
 
 ### :gear: My skills include:
 
-- **Languages**: `php`, `Java`, `JavaScript`
+- **Languages**: `C`,`php`, `Java`, `JavaScript`
 
-- **Frontend**: `React`,`Vue`, `Redux`, `SASS`, `Webpack`
+- **Frontend**: `React`, `Redux`, `SASS`, `Webpack`,`Angular`,`NGRX`
 
-- **Backend**: `Node.js`, `Express`,`J2EE` 
+- **Backend**: `Node.js`, `Express`,`J2EE`,`Spring Boot`, 
 
-- **Databases**: `MySQL`, `MongoDB`
+- **Databases**: `MySQL`, `MongoDB`,`Oracle`,`phpMyAdmin`
 
-- **Testing frameworks**: `Mocha`, `Chai`,`Jest` 
+- **Testing frameworks**: `Mocha`, `Chai`,`Jest`,`JUnit` 
+
+- **DevOps tools :  `git`, `Docker`,`Kubernetes`,`Ansible`,`Maven`,`Jenkins`
 
 - **Technical Practices**: *Agile*, *Test Driven Development*, *REST API Design*, *DevOps*,
 
