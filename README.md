@@ -30,10 +30,10 @@ I am **addicted to green dots** on [GitHub](https://github.com/AkroutiHamza?tab=
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkroutiHamza" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkroutiHamza&theme=dark" />
 </a>
 
-[![Hamza Akrouti github stats](https://github-readme-stats.vercel.app/api?username=AkroutiHamza&show_icons=true)](https://profile-summary-for-github.com/user/AkroutiHamza)
+[![Hamza Akrouti github stats](https://github-readme-stats.vercel.app/api?username=AkroutiHamza&show_icons=true&theme=dark)](https://profile-summary-for-github.com/user/AkroutiHamza)
 
 
 
@@ -80,11 +80,11 @@ I am **addicted to green dots** on [GitHub](https://github.com/AkroutiHamza?tab=
 Currently, I'm maintaining two projects which is part of many open-source programs such as [Openzeppelin](https://openzeppelin.com/), [Decentralized Magazine](https://en.decentral.news/), [Lightency.io](http://lightency.io/), etc. Check out my other projects [here] ⬇️ .
 
 <a href="https://github.com/AkroutiHamza/FLIGHTINSURRANCE">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AkroutiHamza&repo=FLIGHTINSURRANCE" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AkroutiHamza&repo=FLIGHTINSURRANCE&theme=dark" />
 </a>
 
  <a href="https://github.com/AkroutiHamza/progressbar">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AkroutiHamza&repo=progressbar" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AkroutiHamza&repo=progressbar&theme=dark" />
 </a>
 <br>
 <br>
@@ -112,7 +112,7 @@ I love to interact with people and share whatever little I know about my technol
 
 [![Mentioned in Awesome](https://awesome.re/mentioned-badge.svg)](https://github.com/AkroutiHamza/COVID19/)
 
-[![COVID-19 Tracker](https://github-readme-stats.vercel.app/api/pin/?username=AkroutiHamza&repo=COVID19)](https://github.com/AkroutiHamza/COVID19)
+[![COVID-19 Tracker](https://github-readme-stats.vercel.app/api/pin/?username=AkroutiHamza&repo=COVID19&theme=dark)](https://github.com/AkroutiHamza/COVID19)
 
 **Say Hi on Twitter([@Akrouti_Hamza](https://twitter.com/akrouti_hamza))!** :heart: 💬 
 
