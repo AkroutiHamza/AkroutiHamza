@@ -7,18 +7,18 @@
 ### Bio 🧑🏻:
 
 I'm **[Hamza_Akrouti](https://www.linkedin.com/in/akrouti-hamza-507559176), a human being who is passionate about simplifying things through technology.
-Currently)**. I work with all kinds of modern JavaScript. **You can find me on [LinkedIn](https://www.linkedin.com/in/hamza-akrouti/)**. 
+Currently)**. I work with all kinds of modern Java. **You can find me on [LinkedIn](https://www.linkedin.com/in/hamza-akrouti/)**. 
  
 
  **if you want to know more about me smach the Button below**  👉 
- [![My cv](https://img.shields.io/badge/View%20-My%20Cv-green)](https://drive.google.com/file/d/1arWdQigTDGzedeBpC2i63_JzI6U7DhGA/view)
+ [![My cv](https://img.shields.io/badge/View%20-My%20Cv-green)](https://drive.google.com/file/d/1arWdQigTDGzedeBpC2i63_JzI6U7DhGA/view6)
 
  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@hamzaakrouti&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/hamza-akrouti/)
   
 ### :arrow_down: Here are some ideas to get you started::
 - 🔭 I’m currently working on taking rest
 - 🌱 I’m currently learning how to be patient and persevere
-- 👯 I’m looking to collaborate on ReactJS
+- 👯 I’m looking to collaborate on Quarkus
 - 💬 Ask me about What you want 
 - 📫 How to reach me: @AkroutiHamza (Github) 
 - ⚡ Fun fact: I hate language wars
@@ -39,17 +39,17 @@ I am **addicted to green dots** on [GitHub](https://github.com/AkroutiHamza?tab=
 
 ### :gear: My skills include:
 
-- **Languages**: `C`,`php`, `Java`, `JavaScript`
+- **Languages**: `C / C++`,`Python`, `Java`, `JavaScript`
 
-- **Frontend**: `React`, `Redux`, `SASS`, `Webpack`,`Angular`,`NGRX`
+- **Frontend**: `React`, `Redux`, `SASS`, `Webpack`,`Angular`,`Ngrx`,''
 
-- **Backend**: `Node.js`, `Express`,`J2EE`,`Spring Boot`, 
+- **Backend**: `Node.js`, `Express`,`J2EE`,`Spring`,`Quarkus`, 
 
-- **Databases**: `MySQL`, `MongoDB`,`Oracle`,`phpMyAdmin`
+- **Databases**: `MySQL`, `MongoDB`,`Oracle`,`MSSQL`
 
 - **Testing frameworks**: `Mocha`, `Chai`,`Jest`,`JUnit` 
 
-- **DevOps tools** :  `git`, `Docker`,`Kubernetes`,`Ansible`,`Maven`,`Jenkins`
+- **DevOps tools** :  `git`, `Docker`,`Kubernetes`,`EKS`,`AKS`,`Ansible`,`Maven`,`Jenkins`
 
 - **Technical Practices**: *Agile*, *Test Driven Development*, *REST API Design*
 
