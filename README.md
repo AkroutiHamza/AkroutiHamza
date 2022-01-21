@@ -106,7 +106,7 @@ I love to interact with people and share whatever little I know about my technol
 |------|:-------:|:-----:|:------:|--------|
 |  JS Communtiy Event | FSM,Monastir 🇹🇳 🌊 | April 16, 2019 | Beginner Workshop on Node.js | 📹 &nbsp;Slides |
 | Dar Blockchain Meetup 1.0 | Ariana , Tunisia 🇹🇳 💱 | October , 2019 | Beginner Workshop on Blockchain 2.0 | 🖥&nbsp;Slides |
-|  Robot LAB ISIMA| ISIMA,Mahdia 🇹🇳 🌊 | April 29, 2020 | Community Building | 📹&nbsp;Video |
+|  IEEE ISIMA STUDENT BRANCH | ISIMA,Mahdia 🇹🇳 🌊 | April 29, 2020 | Community Building | 📹&nbsp;Video |
 							
 ### Consider leaving a :star: for **[COVID-19](https://github.com/AkroutiHamza/COVID19/) :mask: [Tracker](https://github.com/AkroutiHamza/COVID19/) : 🇹🇳  Tunisia:  🇹🇳 ** built by me! :hugs: 
 
