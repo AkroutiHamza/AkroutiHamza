@@ -7,7 +7,7 @@
 ### Bio 🧑🏻:
 
 I'm **[Hamza_Akrouti](https://www.linkedin.com/in/akrouti-hamza-507559176), a human being who is passionate about simplifying things through technology.
-Currently)**. I work with all kinds of modern Java. **You can find me on [LinkedIn](https://www.linkedin.com/in/hamza-akrouti/)**. 
+Currently)**. I work on Building & securing Cloud native applications . **You can find me on [LinkedIn](https://www.linkedin.com/in/hamza-akrouti/)**. 
  
 
  **if you want to know more about me smach the Button below**  👉 
